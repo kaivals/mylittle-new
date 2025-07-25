@@ -1,0 +1,118 @@
+E:\git api\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.csproj.AssemblyReference.cache
+E:\git api\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\git api\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.AssemblyInfoInputs.cache
+E:\git api\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.AssemblyInfo.cs
+E:\git api\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.csproj.CoreCompileInputs.cache
+E:\git api\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.sourcelink.json
+E:\git api\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.deps.json
+E:\git api\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.runtimeconfig.json
+E:\git api\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.dll
+E:\git api\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.pdb
+E:\git api\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.dll
+E:\git api\mylittle-project.Domain\obj\Debug\net9.0\refint\mylittle-project.Domain.dll
+E:\git api\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.pdb
+E:\git api\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.genruntimeconfig.cache
+E:\git api\mylittle-project.Domain\obj\Debug\net9.0\ref\mylittle-project.Domain.dll
+E:\gitPI\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.deps.json
+E:\gitPI\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.runtimeconfig.json
+E:\gitPI\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.dll
+E:\gitPI\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.pdb
+E:\gitPI\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.csproj.AssemblyReference.cache
+E:\gitPI\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\gitPI\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.AssemblyInfoInputs.cache
+E:\gitPI\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.AssemblyInfo.cs
+E:\gitPI\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.csproj.CoreCompileInputs.cache
+E:\gitPI\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.sourcelink.json
+E:\gitPI\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.dll
+E:\gitPI\mylittle-project.Domain\obj\Debug\net9.0\refint\mylittle-project.Domain.dll
+E:\gitPI\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.pdb
+E:\gitPI\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.genruntimeconfig.cache
+E:\gitPI\mylittle-project.Domain\obj\Debug\net9.0\ref\mylittle-project.Domain.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.deps.json
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.runtimeconfig.json
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.pdb
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.csproj.AssemblyReference.cache
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.AssemblyInfoInputs.cache
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.AssemblyInfo.cs
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project.Domain\obj\Debug\net9.0\refint\mylittle-project.Domain.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.pdb
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.genruntimeconfig.cache
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project.Domain\obj\Debug\net9.0\ref\mylittle-project.Domain.dll
+E:\gitPI\mylittle-project\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.deps.json
+E:\gitPI\mylittle-project\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.runtimeconfig.json
+E:\gitPI\mylittle-project\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.dll
+E:\gitPI\mylittle-project\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.pdb
+E:\gitPI\mylittle-project\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.csproj.AssemblyReference.cache
+E:\gitPI\mylittle-project\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\gitPI\mylittle-project\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.AssemblyInfoInputs.cache
+E:\gitPI\mylittle-project\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.AssemblyInfo.cs
+E:\gitPI\mylittle-project\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.csproj.CoreCompileInputs.cache
+E:\gitPI\mylittle-project\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.sourcelink.json
+E:\gitPI\mylittle-project\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.dll
+E:\gitPI\mylittle-project\mylittle-project.Domain\obj\Debug\net9.0\refint\mylittle-project.Domain.dll
+E:\gitPI\mylittle-project\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.pdb
+E:\gitPI\mylittle-project\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.genruntimeconfig.cache
+E:\gitPI\mylittle-project\mylittle-project.Domain\obj\Debug\net9.0\ref\mylittle-project.Domain.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.deps.json
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.runtimeconfig.json
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.pdb
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.csproj.AssemblyReference.cache
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.AssemblyInfoInputs.cache
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.AssemblyInfo.cs
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.sourcelink.json
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Domain\obj\Debug\net9.0\refint\mylittle-project.Domain.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.pdb
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.genruntimeconfig.cache
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Domain\obj\Debug\net9.0\ref\mylittle-project.Domain.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.deps.json
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.runtimeconfig.json
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.pdb
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.csproj.AssemblyReference.cache
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.AssemblyInfoInputs.cache
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.AssemblyInfo.cs
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.sourcelink.json
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Domain\obj\Debug\net9.0\refint\mylittle-project.Domain.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.pdb
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.genruntimeconfig.cache
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Domain\obj\Debug\net9.0\ref\mylittle-project.Domain.dll
+E:\clone01\mylittle-project\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.deps.json
+E:\clone01\mylittle-project\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.runtimeconfig.json
+E:\clone01\mylittle-project\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.dll
+E:\clone01\mylittle-project\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.pdb
+E:\clone01\mylittle-project\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.csproj.AssemblyReference.cache
+E:\clone01\mylittle-project\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\clone01\mylittle-project\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.AssemblyInfoInputs.cache
+E:\clone01\mylittle-project\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.AssemblyInfo.cs
+E:\clone01\mylittle-project\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.csproj.CoreCompileInputs.cache
+E:\clone01\mylittle-project\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.dll
+E:\clone01\mylittle-project\mylittle-project.Domain\obj\Debug\net9.0\refint\mylittle-project.Domain.dll
+E:\clone01\mylittle-project\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.pdb
+E:\clone01\mylittle-project\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.genruntimeconfig.cache
+E:\clone01\mylittle-project\mylittle-project.Domain\obj\Debug\net9.0\ref\mylittle-project.Domain.dll
+E:\clonev2\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.deps.json
+E:\clonev2\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.runtimeconfig.json
+E:\clonev2\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.dll
+E:\clonev2\mylittle-project.Domain\bin\Debug\net9.0\mylittle-project.Domain.pdb
+E:\clonev2\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.csproj.AssemblyReference.cache
+E:\clonev2\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\clonev2\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.AssemblyInfoInputs.cache
+E:\clonev2\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.AssemblyInfo.cs
+E:\clonev2\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.csproj.CoreCompileInputs.cache
+E:\clonev2\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.sourcelink.json
+E:\clonev2\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.dll
+E:\clonev2\mylittle-project.Domain\obj\Debug\net9.0\refint\mylittle-project.Domain.dll
+E:\clonev2\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.pdb
+E:\clonev2\mylittle-project.Domain\obj\Debug\net9.0\mylittle-project.Domain.genruntimeconfig.cache
+E:\clonev2\mylittle-project.Domain\obj\Debug\net9.0\ref\mylittle-project.Domain.dll

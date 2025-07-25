@@ -1,0 +1,126 @@
+E:\git api\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.csproj.AssemblyReference.cache
+E:\git api\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\git api\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.AssemblyInfoInputs.cache
+E:\git api\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.AssemblyInfo.cs
+E:\git api\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.csproj.CoreCompileInputs.cache
+E:\git api\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.sourcelink.json
+E:\git api\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Application.deps.json
+E:\git api\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Application.dll
+E:\git api\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Application.pdb
+E:\git api\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Domain.dll
+E:\git api\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Domain.pdb
+E:\git api\mylittle-project.Application\obj\Debug\net9.0\mylittle.95726E17.Up2Date
+E:\git api\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.dll
+E:\git api\mylittle-project.Application\obj\Debug\net9.0\refint\mylittle-project.Application.dll
+E:\git api\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.pdb
+E:\git api\mylittle-project.Application\obj\Debug\net9.0\ref\mylittle-project.Application.dll
+E:\gitPI\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Application.deps.json
+E:\gitPI\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Application.dll
+E:\gitPI\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Application.pdb
+E:\gitPI\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Domain.dll
+E:\gitPI\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Domain.pdb
+E:\gitPI\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.csproj.AssemblyReference.cache
+E:\gitPI\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\gitPI\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.AssemblyInfoInputs.cache
+E:\gitPI\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.AssemblyInfo.cs
+E:\gitPI\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.csproj.CoreCompileInputs.cache
+E:\gitPI\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.sourcelink.json
+E:\gitPI\mylittle-project.Application\obj\Debug\net9.0\mylittle.95726E17.Up2Date
+E:\gitPI\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.dll
+E:\gitPI\mylittle-project.Application\obj\Debug\net9.0\refint\mylittle-project.Application.dll
+E:\gitPI\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.pdb
+E:\gitPI\mylittle-project.Application\obj\Debug\net9.0\ref\mylittle-project.Application.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Application.deps.json
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Application.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Application.pdb
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Domain.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Domain.pdb
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.csproj.AssemblyReference.cache
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.AssemblyInfoInputs.cache
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.AssemblyInfo.cs
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.csproj.CoreCompileInputs.cache
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\mylittle.95726E17.Up2Date
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\refint\mylittle-project.Application.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.pdb
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\ref\mylittle-project.Application.dll
+E:\gitPI\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.csproj.AssemblyReference.cache
+E:\gitPI\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\gitPI\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.AssemblyInfoInputs.cache
+E:\gitPI\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.AssemblyInfo.cs
+E:\gitPI\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.csproj.CoreCompileInputs.cache
+E:\gitPI\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.sourcelink.json
+E:\gitPI\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.dll
+E:\gitPI\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\refint\mylittle-project.Application.dll
+E:\gitPI\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.pdb
+E:\gitPI\mylittle-project\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Application.deps.json
+E:\gitPI\mylittle-project\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Application.dll
+E:\gitPI\mylittle-project\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Application.pdb
+E:\gitPI\mylittle-project\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Domain.dll
+E:\gitPI\mylittle-project\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Domain.pdb
+E:\gitPI\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\mylittle.95726E17.Up2Date
+E:\gitPI\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\ref\mylittle-project.Application.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Application.deps.json
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Application.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Application.pdb
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Domain.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Domain.pdb
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.csproj.AssemblyReference.cache
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.AssemblyInfoInputs.cache
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.AssemblyInfo.cs
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.csproj.CoreCompileInputs.cache
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.sourcelink.json
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Application\obj\Debug\net9.0\mylittle.95726E17.Up2Date
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Application\obj\Debug\net9.0\refint\mylittle-project.Application.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.pdb
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Application\obj\Debug\net9.0\ref\mylittle-project.Application.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Application.deps.json
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Application.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Application.pdb
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Domain.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Domain.pdb
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.csproj.AssemblyReference.cache
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.AssemblyInfoInputs.cache
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.AssemblyInfo.cs
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.csproj.CoreCompileInputs.cache
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.sourcelink.json
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Application\obj\Debug\net9.0\mylittle.95726E17.Up2Date
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Application\obj\Debug\net9.0\refint\mylittle-project.Application.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.pdb
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project.Application\obj\Debug\net9.0\ref\mylittle-project.Application.dll
+E:\clone01\mylittle-project\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Application.deps.json
+E:\clone01\mylittle-project\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Application.dll
+E:\clone01\mylittle-project\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Application.pdb
+E:\clone01\mylittle-project\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Domain.dll
+E:\clone01\mylittle-project\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Domain.pdb
+E:\clone01\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.csproj.AssemblyReference.cache
+E:\clone01\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\clone01\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.AssemblyInfoInputs.cache
+E:\clone01\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.AssemblyInfo.cs
+E:\clone01\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.csproj.CoreCompileInputs.cache
+E:\clone01\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\mylittle.95726E17.Up2Date
+E:\clone01\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.dll
+E:\clone01\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\refint\mylittle-project.Application.dll
+E:\clone01\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.pdb
+E:\clone01\mylittle-project\mylittle-project.Application\obj\Debug\net9.0\ref\mylittle-project.Application.dll
+E:\clonev2\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Application.deps.json
+E:\clonev2\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Application.dll
+E:\clonev2\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Application.pdb
+E:\clonev2\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Domain.dll
+E:\clonev2\mylittle-project.Application\bin\Debug\net9.0\mylittle-project.Domain.pdb
+E:\clonev2\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.csproj.AssemblyReference.cache
+E:\clonev2\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\clonev2\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.AssemblyInfoInputs.cache
+E:\clonev2\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.AssemblyInfo.cs
+E:\clonev2\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.csproj.CoreCompileInputs.cache
+E:\clonev2\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.sourcelink.json
+E:\clonev2\mylittle-project.Application\obj\Debug\net9.0\mylittle.95726E17.Up2Date
+E:\clonev2\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.dll
+E:\clonev2\mylittle-project.Application\obj\Debug\net9.0\refint\mylittle-project.Application.dll
+E:\clonev2\mylittle-project.Application\obj\Debug\net9.0\mylittle-project.Application.pdb
+E:\clonev2\mylittle-project.Application\obj\Debug\net9.0\ref\mylittle-project.Application.dll

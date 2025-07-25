@@ -1,0 +1,1414 @@
+E:\git api\mylittle-project\obj\Debug\net9.0\mylittle-project.csproj.AssemblyReference.cache
+E:\git api\mylittle-project\obj\Debug\net9.0\mylittle-project.GeneratedMSBuildEditorConfig.editorconfig
+E:\git api\mylittle-project\obj\Debug\net9.0\mylittle-project.AssemblyInfoInputs.cache
+E:\git api\mylittle-project\obj\Debug\net9.0\mylittle-project.AssemblyInfo.cs
+E:\git api\mylittle-project\obj\Debug\net9.0\mylittle-project.csproj.CoreCompileInputs.cache
+E:\git api\mylittle-project\obj\Debug\net9.0\mylittle-project.MvcApplicationPartsAssemblyInfo.cache
+E:\git api\mylittle-project\obj\Debug\net9.0\mylittle-project.sourcelink.json
+E:\git api\mylittle-project\bin\Debug\net9.0\appsettings.Development.json
+E:\git api\mylittle-project\bin\Debug\net9.0\mylittle-project.staticwebassets.endpoints.json
+E:\git api\mylittle-project\bin\Debug\net9.0\mylittle-project.exe
+E:\git api\mylittle-project\bin\Debug\net9.0\mylittle-project.deps.json
+E:\git api\mylittle-project\bin\Debug\net9.0\mylittle-project.runtimeconfig.json
+E:\git api\mylittle-project\bin\Debug\net9.0\mylittle-project.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\mylittle-project.pdb
+E:\git api\mylittle-project\bin\Debug\net9.0\Azure.Core.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Azure.Identity.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Humanizer.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\Scalar.AspNetCore.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\System.ClientModel.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\System.CodeDom.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\System.Formats.Asn1.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\System.Memory.Data.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\System.Text.Json.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\mylittle-project.Application.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\mylittle-project.Domain.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\mylittle-project.infrastructure.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\mylittle-project.Application.pdb
+E:\git api\mylittle-project\bin\Debug\net9.0\mylittle-project.Domain.pdb
+E:\git api\mylittle-project\bin\Debug\net9.0\mylittle-project.infrastructure.pdb
+E:\git api\mylittle-project\obj\Debug\net9.0\scopedcss\bundle\mylittle-project.styles.css
+E:\git api\mylittle-project\obj\Debug\net9.0\staticwebassets.build.json
+E:\git api\mylittle-project\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\git api\mylittle-project\obj\Debug\net9.0\staticwebassets.development.json
+E:\git api\mylittle-project\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\git api\mylittle-project\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\git api\mylittle-project\obj\Debug\net9.0\mylittle.B0436BCD.Up2Date
+E:\git api\mylittle-project\obj\Debug\net9.0\mylittle-project.dll
+E:\git api\mylittle-project\obj\Debug\net9.0\refint\mylittle-project.dll
+E:\git api\mylittle-project\obj\Debug\net9.0\mylittle-project.pdb
+E:\git api\mylittle-project\obj\Debug\net9.0\mylittle-project.genruntimeconfig.cache
+E:\git api\mylittle-project\obj\Debug\net9.0\ref\mylittle-project.dll
+E:\git api\mylittle-project\bin\Debug\net9.0\appsettings.json
+E:\git api\mylittle-project\obj\Debug\net9.0\mylittle-project.MvcApplicationPartsAssemblyInfo.cs
+E:\gitPI\mylittle-project\bin\Debug\net9.0\appsettings.Development.json
+E:\gitPI\mylittle-project\bin\Debug\net9.0\appsettings.json
+E:\gitPI\mylittle-project\bin\Debug\net9.0\mylittle-project.staticwebassets.endpoints.json
+E:\gitPI\mylittle-project\bin\Debug\net9.0\mylittle-project.exe
+E:\gitPI\mylittle-project\bin\Debug\net9.0\mylittle-project.deps.json
+E:\gitPI\mylittle-project\bin\Debug\net9.0\mylittle-project.runtimeconfig.json
+E:\gitPI\mylittle-project\bin\Debug\net9.0\mylittle-project.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\mylittle-project.pdb
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Azure.Core.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Azure.Identity.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\BCrypt.Net-Next.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Humanizer.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Pipelines.Sockets.Unofficial.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\Scalar.AspNetCore.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\StackExchange.Redis.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\System.ClientModel.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\System.CodeDom.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\System.Formats.Asn1.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\System.Memory.Data.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\System.Text.Json.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\mylittle-project.Application.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\mylittle-project.Domain.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\mylittle-project.infrastructure.dll
+E:\gitPI\mylittle-project\bin\Debug\net9.0\mylittle-project.Application.pdb
+E:\gitPI\mylittle-project\bin\Debug\net9.0\mylittle-project.Domain.pdb
+E:\gitPI\mylittle-project\bin\Debug\net9.0\mylittle-project.infrastructure.pdb
+E:\gitPI\mylittle-project\obj\Debug\net9.0\mylittle-project.csproj.AssemblyReference.cache
+E:\gitPI\mylittle-project\obj\Debug\net9.0\mylittle-project.GeneratedMSBuildEditorConfig.editorconfig
+E:\gitPI\mylittle-project\obj\Debug\net9.0\mylittle-project.AssemblyInfoInputs.cache
+E:\gitPI\mylittle-project\obj\Debug\net9.0\mylittle-project.AssemblyInfo.cs
+E:\gitPI\mylittle-project\obj\Debug\net9.0\mylittle-project.csproj.CoreCompileInputs.cache
+E:\gitPI\mylittle-project\obj\Debug\net9.0\mylittle-project.MvcApplicationPartsAssemblyInfo.cs
+E:\gitPI\mylittle-project\obj\Debug\net9.0\mylittle-project.MvcApplicationPartsAssemblyInfo.cache
+E:\gitPI\mylittle-project\obj\Debug\net9.0\mylittle-project.sourcelink.json
+E:\gitPI\mylittle-project\obj\Debug\net9.0\scopedcss\bundle\mylittle-project.styles.css
+E:\gitPI\mylittle-project\obj\Debug\net9.0\staticwebassets.build.json
+E:\gitPI\mylittle-project\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\gitPI\mylittle-project\obj\Debug\net9.0\staticwebassets.development.json
+E:\gitPI\mylittle-project\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\gitPI\mylittle-project\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\gitPI\mylittle-project\obj\Debug\net9.0\mylittle.B0436BCD.Up2Date
+E:\gitPI\mylittle-project\obj\Debug\net9.0\mylittle-project.dll
+E:\gitPI\mylittle-project\obj\Debug\net9.0\refint\mylittle-project.dll
+E:\gitPI\mylittle-project\obj\Debug\net9.0\mylittle-project.pdb
+E:\gitPI\mylittle-project\obj\Debug\net9.0\mylittle-project.genruntimeconfig.cache
+E:\gitPI\mylittle-project\obj\Debug\net9.0\ref\mylittle-project.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\obj\Debug\net9.0\mylittle-project.csproj.AssemblyReference.cache
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\obj\Debug\net9.0\mylittle-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\obj\Debug\net9.0\mylittle-project.AssemblyInfoInputs.cache
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\obj\Debug\net9.0\mylittle-project.AssemblyInfo.cs
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\obj\Debug\net9.0\mylittle-project.csproj.CoreCompileInputs.cache
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\obj\Debug\net9.0\mylittle-project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\obj\Debug\net9.0\mylittle-project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\obj\Debug\net9.0\mylittle-project.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\obj\Debug\net9.0\refint\mylittle-project.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\obj\Debug\net9.0\mylittle-project.pdb
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\appsettings.json
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.staticwebassets.endpoints.json
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.exe
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.deps.json
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.runtimeconfig.json
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.pdb
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\Scalar.AspNetCore.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\StackExchange.Redis.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.Application.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.Domain.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.infrastructure.dll
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.Application.pdb
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.Domain.pdb
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.infrastructure.pdb
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\obj\Debug\net9.0\scopedcss\bundle\mylittle-project.styles.css
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\obj\Debug\net9.0\mylittle.B0436BCD.Up2Date
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\obj\Debug\net9.0\mylittle-project.genruntimeconfig.cache
+C:\Users\Tisha Jain\Downloads\c# internship\mylittle-project\mylittle-project\obj\Debug\net9.0\ref\mylittle-project.dll
+E:\gitPI\mylittle-project\mylittle-project\obj\Debug\net9.0\mylittle-project.csproj.AssemblyReference.cache
+E:\gitPI\mylittle-project\mylittle-project\obj\Debug\net9.0\mylittle-project.GeneratedMSBuildEditorConfig.editorconfig
+E:\gitPI\mylittle-project\mylittle-project\obj\Debug\net9.0\mylittle-project.AssemblyInfoInputs.cache
+E:\gitPI\mylittle-project\mylittle-project\obj\Debug\net9.0\mylittle-project.AssemblyInfo.cs
+E:\gitPI\mylittle-project\mylittle-project\obj\Debug\net9.0\mylittle-project.csproj.CoreCompileInputs.cache
+E:\gitPI\mylittle-project\mylittle-project\obj\Debug\net9.0\mylittle-project.MvcApplicationPartsAssemblyInfo.cs
+E:\gitPI\mylittle-project\mylittle-project\obj\Debug\net9.0\mylittle-project.MvcApplicationPartsAssemblyInfo.cache
+E:\gitPI\mylittle-project\mylittle-project\obj\Debug\net9.0\mylittle-project.sourcelink.json
+E:\gitPI\mylittle-project\mylittle-project\obj\Debug\net9.0\mylittle-project.dll
+E:\gitPI\mylittle-project\mylittle-project\obj\Debug\net9.0\refint\mylittle-project.dll
+E:\gitPI\mylittle-project\mylittle-project\obj\Debug\net9.0\mylittle-project.pdb
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\appsettings.Development.json
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\appsettings.json
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.staticwebassets.endpoints.json
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.exe
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.deps.json
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.runtimeconfig.json
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.pdb
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Azure.Core.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Azure.Identity.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\BCrypt.Net-Next.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Humanizer.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Pipelines.Sockets.Unofficial.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\Scalar.AspNetCore.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\StackExchange.Redis.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\System.ClientModel.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\System.CodeDom.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Formats.Asn1.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Memory.Data.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Text.Json.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.Application.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.Domain.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.infrastructure.dll
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.Application.pdb
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.Domain.pdb
+E:\gitPI\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.infrastructure.pdb
+E:\gitPI\mylittle-project\mylittle-project\obj\Debug\net9.0\scopedcss\bundle\mylittle-project.styles.css
+E:\gitPI\mylittle-project\mylittle-project\obj\Debug\net9.0\staticwebassets.build.json
+E:\gitPI\mylittle-project\mylittle-project\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\gitPI\mylittle-project\mylittle-project\obj\Debug\net9.0\staticwebassets.development.json
+E:\gitPI\mylittle-project\mylittle-project\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\gitPI\mylittle-project\mylittle-project\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\gitPI\mylittle-project\mylittle-project\obj\Debug\net9.0\mylittle.B0436BCD.Up2Date
+E:\gitPI\mylittle-project\mylittle-project\obj\Debug\net9.0\mylittle-project.genruntimeconfig.cache
+E:\gitPI\mylittle-project\mylittle-project\obj\Debug\net9.0\ref\mylittle-project.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\mylittle-project.csproj.AssemblyReference.cache
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\mylittle-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\mylittle-project.AssemblyInfoInputs.cache
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\mylittle-project.AssemblyInfo.cs
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\mylittle-project.csproj.CoreCompileInputs.cache
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\mylittle-project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\mylittle-project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\mylittle-project.sourcelink.json
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\mylittle-project.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\refint\mylittle-project.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\mylittle-project.pdb
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\appsettings.json
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\mylittle-project.staticwebassets.endpoints.json
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\mylittle-project.exe
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\mylittle-project.deps.json
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\mylittle-project.runtimeconfig.json
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\mylittle-project.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\mylittle-project.pdb
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Scalar.AspNetCore.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\StackExchange.Redis.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\mylittle-project.Application.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\mylittle-project.Domain.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\mylittle-project.infrastructure.dll
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\mylittle-project.Application.pdb
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\mylittle-project.Domain.pdb
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\mylittle-project.infrastructure.pdb
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\scopedcss\bundle\mylittle-project.styles.css
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\mylittle.B0436BCD.Up2Date
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\mylittle-project.genruntimeconfig.cache
+C:\Users\Tisha Jain\Downloads\c# internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\ref\mylittle-project.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\mylittle-project.csproj.AssemblyReference.cache
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\mylittle-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\mylittle-project.AssemblyInfoInputs.cache
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\mylittle-project.AssemblyInfo.cs
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\mylittle-project.csproj.CoreCompileInputs.cache
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\mylittle-project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\mylittle-project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\mylittle-project.sourcelink.json
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\mylittle-project.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\refint\mylittle-project.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\mylittle-project.pdb
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\appsettings.json
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\mylittle-project.staticwebassets.endpoints.json
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\mylittle-project.exe
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\mylittle-project.deps.json
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\mylittle-project.runtimeconfig.json
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\mylittle-project.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\mylittle-project.pdb
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\Scalar.AspNetCore.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\StackExchange.Redis.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\mylittle-project.Application.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\mylittle-project.Domain.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\mylittle-project.infrastructure.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\mylittle-project.Application.pdb
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\mylittle-project.Domain.pdb
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\mylittle-project.infrastructure.pdb
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\scopedcss\bundle\mylittle-project.styles.css
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\mylittle.B0436BCD.Up2Date
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\mylittle-project.genruntimeconfig.cache
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\obj\Debug\net9.0\ref\mylittle-project.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\LinqKit.Core.dll
+C:\Users\Tisha Jain\Downloads\Internship\My Little Trader Portel\MYLITTLEv2\mylittle-project\bin\Debug\net9.0\LinqKit.Microsoft.EntityFrameworkCore.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\appsettings.Development.json
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\appsettings.json
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.staticwebassets.endpoints.json
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.exe
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.deps.json
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.runtimeconfig.json
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.pdb
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Azure.Core.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Azure.Identity.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\BCrypt.Net-Next.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Humanizer.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\LinqKit.Core.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\LinqKit.Microsoft.EntityFrameworkCore.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Pipelines.Sockets.Unofficial.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Scalar.AspNetCore.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\StackExchange.Redis.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\System.ClientModel.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\System.CodeDom.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Formats.Asn1.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Memory.Data.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Text.Json.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.Application.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.Domain.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.infrastructure.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.Application.pdb
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.Domain.pdb
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\mylittle-project.infrastructure.pdb
+E:\clone01\mylittle-project\mylittle-project\obj\Debug\net9.0\mylittle-project.csproj.AssemblyReference.cache
+E:\clone01\mylittle-project\mylittle-project\obj\Debug\net9.0\mylittle-project.GeneratedMSBuildEditorConfig.editorconfig
+E:\clone01\mylittle-project\mylittle-project\obj\Debug\net9.0\mylittle-project.AssemblyInfoInputs.cache
+E:\clone01\mylittle-project\mylittle-project\obj\Debug\net9.0\mylittle-project.AssemblyInfo.cs
+E:\clone01\mylittle-project\mylittle-project\obj\Debug\net9.0\mylittle-project.csproj.CoreCompileInputs.cache
+E:\clone01\mylittle-project\mylittle-project\obj\Debug\net9.0\mylittle-project.MvcApplicationPartsAssemblyInfo.cs
+E:\clone01\mylittle-project\mylittle-project\obj\Debug\net9.0\mylittle-project.MvcApplicationPartsAssemblyInfo.cache
+E:\clone01\mylittle-project\mylittle-project\obj\Debug\net9.0\scopedcss\bundle\mylittle-project.styles.css
+E:\clone01\mylittle-project\mylittle-project\obj\Debug\net9.0\staticwebassets.build.json
+E:\clone01\mylittle-project\mylittle-project\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\clone01\mylittle-project\mylittle-project\obj\Debug\net9.0\staticwebassets.development.json
+E:\clone01\mylittle-project\mylittle-project\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\clone01\mylittle-project\mylittle-project\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\clone01\mylittle-project\mylittle-project\obj\Debug\net9.0\mylittle.B0436BCD.Up2Date
+E:\clone01\mylittle-project\mylittle-project\obj\Debug\net9.0\mylittle-project.dll
+E:\clone01\mylittle-project\mylittle-project\obj\Debug\net9.0\refint\mylittle-project.dll
+E:\clone01\mylittle-project\mylittle-project\obj\Debug\net9.0\mylittle-project.pdb
+E:\clone01\mylittle-project\mylittle-project\obj\Debug\net9.0\mylittle-project.genruntimeconfig.cache
+E:\clone01\mylittle-project\mylittle-project\obj\Debug\net9.0\ref\mylittle-project.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+E:\clone01\mylittle-project\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\appsettings.Development.json
+E:\clonev2\mylittle-project\bin\Debug\net9.0\appsettings.json
+E:\clonev2\mylittle-project\bin\Debug\net9.0\mylittle-project.staticwebassets.endpoints.json
+E:\clonev2\mylittle-project\bin\Debug\net9.0\mylittle-project.exe
+E:\clonev2\mylittle-project\bin\Debug\net9.0\mylittle-project.deps.json
+E:\clonev2\mylittle-project\bin\Debug\net9.0\mylittle-project.runtimeconfig.json
+E:\clonev2\mylittle-project\bin\Debug\net9.0\mylittle-project.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\mylittle-project.pdb
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Azure.Core.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Azure.Identity.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\BCrypt.Net-Next.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Humanizer.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\LinqKit.Core.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\LinqKit.Microsoft.EntityFrameworkCore.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Pipelines.Sockets.Unofficial.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\Scalar.AspNetCore.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\StackExchange.Redis.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\System.ClientModel.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\System.CodeDom.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\System.Formats.Asn1.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\System.Memory.Data.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\System.Text.Json.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\mylittle-project.Application.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\mylittle-project.Domain.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\mylittle-project.infrastructure.dll
+E:\clonev2\mylittle-project\bin\Debug\net9.0\mylittle-project.Application.pdb
+E:\clonev2\mylittle-project\bin\Debug\net9.0\mylittle-project.Domain.pdb
+E:\clonev2\mylittle-project\bin\Debug\net9.0\mylittle-project.infrastructure.pdb
+E:\clonev2\mylittle-project\obj\Debug\net9.0\mylittle-project.csproj.AssemblyReference.cache
+E:\clonev2\mylittle-project\obj\Debug\net9.0\mylittle-project.GeneratedMSBuildEditorConfig.editorconfig
+E:\clonev2\mylittle-project\obj\Debug\net9.0\mylittle-project.AssemblyInfoInputs.cache
+E:\clonev2\mylittle-project\obj\Debug\net9.0\mylittle-project.AssemblyInfo.cs
+E:\clonev2\mylittle-project\obj\Debug\net9.0\mylittle-project.csproj.CoreCompileInputs.cache
+E:\clonev2\mylittle-project\obj\Debug\net9.0\mylittle-project.MvcApplicationPartsAssemblyInfo.cs
+E:\clonev2\mylittle-project\obj\Debug\net9.0\mylittle-project.MvcApplicationPartsAssemblyInfo.cache
+E:\clonev2\mylittle-project\obj\Debug\net9.0\mylittle-project.sourcelink.json
+E:\clonev2\mylittle-project\obj\Debug\net9.0\scopedcss\bundle\mylittle-project.styles.css
+E:\clonev2\mylittle-project\obj\Debug\net9.0\staticwebassets.build.json
+E:\clonev2\mylittle-project\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\clonev2\mylittle-project\obj\Debug\net9.0\staticwebassets.development.json
+E:\clonev2\mylittle-project\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\clonev2\mylittle-project\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\clonev2\mylittle-project\obj\Debug\net9.0\mylittle.B0436BCD.Up2Date
+E:\clonev2\mylittle-project\obj\Debug\net9.0\mylittle-project.dll
+E:\clonev2\mylittle-project\obj\Debug\net9.0\refint\mylittle-project.dll
+E:\clonev2\mylittle-project\obj\Debug\net9.0\mylittle-project.pdb
+E:\clonev2\mylittle-project\obj\Debug\net9.0\mylittle-project.genruntimeconfig.cache
+E:\clonev2\mylittle-project\obj\Debug\net9.0\ref\mylittle-project.dll
